@@ -5,9 +5,13 @@ The Proteus design implements SRAM using fundamental logic gates and SR latches,
 Key Components:
 
 SR Latches — core storage element for each bit cell
+
 Word Lines — horizontal lines selecting a memory row via address decoder
+
 Bit Lines — vertical lines carrying read/write data
+
 Address Decoder — 3-to-8 decoder selecting one of 8 rows
+
 Data Bus — 8-bit wide input/output lines
 
 How to Open:
