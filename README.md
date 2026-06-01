@@ -1,3 +1,5 @@
+<img width="1676" height="726" alt="Screenshot 2025-11-23 104816" src="https://github.com/user-attachments/assets/df7d1b46-c23e-4455-bb20-f65ea03fc12d" />
+
 🖥️ Proteus Gate-Level Implementation
 The Proteus design implements SRAM using fundamental logic gates and SR latches, showing exactly how memory stores bits at the hardware level.
 Key Components:
